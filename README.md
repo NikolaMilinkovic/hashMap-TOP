@@ -16,7 +16,7 @@ I also implemented a Linked List as it is an integral part of HM.
 | length() | Returns num of keys inside the hash map |
 | clear() | Removes all entries from the hash map |
 | keys() | Returns an array containing all the keys inside the hash map |
-| values() | Returns an array containing all the values inside the has map |
+| values() | Returns an array containing all the values inside the hash map |
 | entries() | Returns an array that contains each key / value pair |
 
 ## Linked List Methods
